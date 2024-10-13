@@ -1,6 +1,6 @@
 ## Skill Harvest Inventory
 ---
-This is a response to Assigment to prove I undestood what was taught in class.
+This is a response to an Assigment to prove I undestood what was taught in class.
 # Project Overview
 ---
 This Data analysis seeks to sort through the data of an e-commerce company. It contains the visual representation of the company's data to enable ease in analysing and helps us to make competent decisions and tell compelling stories.
@@ -21,7 +21,7 @@ Ms Excel [Download here](https://www.microsoft.com)
 - what is the revenue made on what models?
 # Data Analysis
 ---
-Excel functions were used to breakdown the data given and visual presentations i.e graphs and piecharts to enable ease of understanding.
+Excel functions were used to breakdown the data given and visual presentations i.e graphs and piecharts, were used to enable ease of understanding.
 ![REVENUE FROM BOTTOM 10 STORES](https://github.com/user-attachments/assets/99e1e78f-6836-4116-adab-4d6670ae4943)
 ![REVENUE IN LINES OF BUSINESS](https://github.com/user-attachments/assets/6d6b8a88-5103-4cbf-84d2-aa8478e1288c)
 ![REVENUE IN REGIONS](https://github.com/user-attachments/assets/ce488d2f-a6ba-465b-bb8d-447f35eec9cd)
@@ -33,10 +33,6 @@ Excel functions were used to breakdown the data given and visual presentations i
 ![UNITS SOLD IN TOP 10 STORES](https://github.com/user-attachments/assets/b783752c-4985-4b6d-ba10-a512afc88e92)
 ![UNITS SOLD AND REVENUE IN A FISCAL PERIOD](https://github.com/user-attachments/assets/771fe519-ff9d-4b05-9991-408260c3e0f1)
 ![REVENUE FOM TOP 10 STORES](https://github.com/user-attachments/assets/316292b6-1104-4991-8b81-8a53d9dd5f2d)
-
-
-
-
 
 # Inference and Insight
 ---
